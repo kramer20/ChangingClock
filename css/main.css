@@ -1,7 +1,19 @@
+body {
+  background-color: black; }
+
 .clockBox {
-  height: 400px;
-  width: 800px;
-  background-color: black;
-  border: black;
-  margin: 80px;
-  color: white; }
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 200px;
+  font-family: 'Orbitron', sans-serif; }
+
+body {
+  background-color: black; }
+
+.colorBox {
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 200px;
+  font-family: 'Orbitron', sans-serif; }
